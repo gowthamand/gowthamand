@@ -7,6 +7,9 @@
 
 ## <picture><img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width=20px></picture> **About me**
 
+9 years of software development 
+
+Various domains (insurance, privacy, security)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=GowthamanD&color=brightgreen" alt="watching_count" />
