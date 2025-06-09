@@ -7,9 +7,17 @@
 
 ## <picture><img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width=20px></picture> **About me**
 
-9 years of software development 
+🎓 Onetrust @ Senior Software Engineer
 
-Various domains (insurance, privacy, security)
+👨‍💻 Deep Thinkar | Problem Solver | Tech Explorer
+
+💡 Passionate about building real-world applications with clean, maintainable code
+
+🌐 Following both frontend and AI development tracks
+
+🔧 Experienced with system design, APIs, and interactive UIs
+
+🧠 Love solving problems on Codeforces & VJudg
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=GowthamanD&color=brightgreen" alt="watching_count" />
